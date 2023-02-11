@@ -12,4 +12,4 @@ function incomeSpendJoma(month, extraJuma, hadia, boyan, bill, bazar, bibidha){
 }
 
 //console.log(incomeSpendJoma('Muharram :', ()=>10000, ()=>500, ()=>4000, ()=>5000, ()=>13500, ()=>5000));
-console.log("My Income, Spend & Joma of " + incomeSpendJoma(()=> 'Razab', ()=>5000, ()=>1000, ()=>0, ()=>5000, ()=>13500, ()=>5000));
+console.log("My Income, Spend & Joma of " + incomeSpendJoma(()=> 'Safar', ()=>5000, ()=>1000, ()=>0, ()=>5000, ()=>13500, ()=>60000));
